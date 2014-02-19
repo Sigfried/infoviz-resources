@@ -45,9 +45,7 @@ orking_Group#Contexts_for_Information_Visualization) section
   * [Curvy interactive tree in D3.js](http://blockses.appspot.com/1061834)
   * [Zoomable icicle in D3.js](http://blockses.appspot.com/1005873)
   * [Treemaps](http://www.cs.umd.edu/hcil/treemap/)  
-  
-
-    * [3D treemap](http://finviz.com/map3d.ashx) market data. Ajaxy mouseovers.
+  * [3D treemap](http://finviz.com/map3d.ashx) market data. Ajaxy mouseovers.
 
 ###  Network data
 
