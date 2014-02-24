@@ -30,8 +30,10 @@ Also look at the software listed in the [Business Intelligen
 ce](http://ec2-67-202-41-166.compute-1.amazonaws.com/index.php/Visualization_W
 orking_Group#Contexts_for_Information_Visualization) section
 
-## For RDF
+#### For RDF
   * [LodLive](http://en.lodlive.it/)
+  
+  
 ##  Data Management Frameworks for Web-based Visualizations
 
   * [Cube](http://square.github.com/cube/) is an open-source system for visualizing time series data, built on MongoDB, Node and D3.
