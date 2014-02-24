@@ -14,15 +14,13 @@ Some handy resources as of early 2012. Will try to update.
   * [SAS JMP](http://www.sr.bham.ac.uk/~ajrs/R/r-gallery.html).
   * [Matplotlib](http://matplotlib.sourceforge.net/gallery.html) graphics library for Python. Naji and David Fetterer have experience.
 
-### Interactive graphics (primarily)
-
-  * [D3](http://mbostock.github.com/d3) D3 is an impressive Javascript library for making beautiful, animated graphs for the web. Significant learning curve.  
-  
-
+### Interactive graphics -- mostly browser-based, JavaScript
+  * [D3](http://mbostock.github.com/d3) D3 is taking over the world
     * [Start here](http://alignedleft.com/tutorials/d3/binding-data/) This is the clearest explanation of the basic D3.js pattern I’ve seen yet.
     * [D3 Examples](http://mbostock.github.com/d3/ex), [D3 grab bag](http://blockses.appspot.com/mbostock), [introductory examples](http://www.verisi.com/resources/d3-tutorial-basic-charts.htm), [more examples](https://github.com/mbostock/d3/wiki), [tutorial](http://christopheviau.com/d3_tutorial)
     * [Hairy data/event details](http://groups.google.com/group/d3-js/browse_thread/thread/9697b3111f3d04e7)
     * To do: Make separate D3.js page with annotated references.
+  * [JavaScript InfoViz Toolkit](http://philogb.github.io/jit/)
   * [Rickshaw](http://shutterstock.github.com/rickshaw) Nice time series chart library built on top of D3. Definite worth using!
   * [Paper.js](http://paperjs.org/) might be easier to use than D3 and have better performance on browsers (uses Canvas rather than SVG), but it doesn’t have all the charting features, like help creating axes.
   * [SVG in HTML](http://phrogz.net/svg/3-point-circle.xhtml). Nice example of how to do stylesheets and js with SVG embedded in HTML, without D3.
@@ -32,6 +30,8 @@ Also look at the software listed in the [Business Intelligen
 ce](http://ec2-67-202-41-166.compute-1.amazonaws.com/index.php/Visualization_W
 orking_Group#Contexts_for_Information_Visualization) section
 
+## For RDF
+  * [LodLive](http://en.lodlive.it/)
 ##  Data Management Frameworks for Web-based Visualizations
 
   * [Cube](http://square.github.com/cube/) is an open-source system for visualizing time series data, built on MongoDB, Node and D3.
@@ -77,6 +77,7 @@ orking_Group#Contexts_for_Information_Visualization) section
   * [Jeffrey Michael Heer](http://hci.stanford.edu/jheer/) Stanford HCI webpage
   * [Flowing Data](http://www.flowingdata.com/)
   * [Information is Beautiful](http://www.informationisbeautiful.net/)
+  * [Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html)
   * [WikiViz/Tools](http://www.wikiviz.org/wiki/Tools) Very nice collection of visualization resources as of a few years ago.
   * [Resources for web graphics](http://coding.smashingmagazine.com/2011/04/07/useful-javascript-and-jquery-tools-libraries-plugins/)
 
